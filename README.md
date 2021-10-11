@@ -1,6 +1,6 @@
 <div style="display: inline-block">
 
-### Hi, I'm Denis Fernando<br> 
+### Hi, I'm Jones Kleber<br> 
   
 Software Engineering student | System Analysis and Development student.<br>
 
@@ -31,10 +31,6 @@ Software Engineering student | System Analysis and Development student.<br>
 <div style="display: inline-block">I love learn new languages and know new cultures.<br><br>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
-<img src="https://img.icons8.com/color/48/000000/germany-circular.png" height="30" width="30" title="Deutsch"/>
-<img src="https://img.icons8.com/color/48/000000/france-circular.png" height="30" width="30" title="Français"/>
-<img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>
-<img src="https://img.icons8.com/color/48/000000/russian-federation-circular.png" height="30" width="30" title="Русский"/>
 </div>
   
 ##
@@ -42,6 +38,6 @@ Software Engineering student | System Analysis and Development student.<br>
 ### __CONTACT__
   </div>
 <div><br>
-<a href="https://www.linkedin.com/in/denis-fer-oli/" target="_blank"> <img align="center" alt="Den-LI" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
-&nbsp&nbsp&nbsp<a href="mailto:denisferoli@gmail.com"><img align="center" alt="Den-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" /></a>
+<a href="https://www.linkedin.com/in/joneskleber/" target="_blank"> <img align="center" alt="Den-LI" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
+&nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="Den-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" /></a>
 </div>
