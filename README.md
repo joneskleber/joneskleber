@@ -20,8 +20,8 @@ Software Engineering student | System Analysis and Development student.<br>
 <div><br>
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=denferoli&show_icons=true&theme=dark">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denferoli&langs_count=8e&theme=dark"
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joneskleber&show_icons=true&theme=dark">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneskleber&langs_count=8e&theme=dark"
 </div>
 
 ##
