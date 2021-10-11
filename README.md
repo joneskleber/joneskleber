@@ -2,7 +2,7 @@
 
 ### Hi, I'm Jones Kleber<br> 
   
-Software Engineering student | System Analysis and Development student.<br>
+Software Engineering | Developer FullStack na Visão On-line<br>
 
 ##
 
