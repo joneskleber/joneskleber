@@ -16,9 +16,10 @@ Software Engineering | Developer FullStack na Visão On-line<br>
 &nbsp&nbsp&nbsp<img align="center" alt="NodeJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
 &nbsp&nbsp&nbsp<img align="center" alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
 &nbsp&nbsp&nbsp<img align="center" alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-&nbsp&nbsp&nbsp<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
+&nbsp&nbsp&nbsp<img align="center" alt="SCSS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" />  
 &nbsp&nbsp&nbsp<img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
 &nbsp&nbsp&nbsp<img align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
+&nbsp&nbsp&nbsp<img align="center" alt="LINUX" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"" title="Linux" />
 <div><br>
 
 <div>
@@ -40,6 +41,8 @@ Software Engineering | Developer FullStack na Visão On-line<br>
 ### __CONTACT__
   </div>
 <div><br>
-<a href="https://www.linkedin.com/in/joneskleber/" target="_blank"> <img align="center" alt="Den-LI" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
-&nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="Den-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" /></a>
+<a href="https://www.linkedin.com/in/joneskleber/" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
+&nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>
+
+  
 </div>
