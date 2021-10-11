@@ -7,7 +7,7 @@ Software Engineering | Developer FullStack na Visão On-line<br>
 ##
 
 ### __SKILLS__
-<div style="display: inline-block" >Those are the technologies that I'm learning and using to become a developer.    
+<div style="display: inline-block" >These are the technologies I use in our projects.    
  <br><br>
 &nbsp&nbsp&nbsp<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
 &nbsp&nbsp&nbsp<img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
