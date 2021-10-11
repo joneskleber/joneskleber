@@ -21,11 +21,13 @@ Software Engineering | Developer FullStack na Visão On-line<br>
 &nbsp&nbsp&nbsp<img align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
 &nbsp&nbsp&nbsp<img align="center" alt="LINUX" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"" title="Linux" />
 <div><br>
-
-<div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joneskleber&show_icons=true&theme=dark">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneskleber&langs_count=8e&theme=dark"
+  
+<div align="left">
+  <a href="https://github.com/joneskleber">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joneskleber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneskleber&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 
 ##
   
