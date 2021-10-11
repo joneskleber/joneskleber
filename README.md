@@ -10,10 +10,14 @@ Software Engineering | Developer FullStack na Visão On-line<br>
 <div style="display: inline-block" >Those are the technologies that I'm learning and using to become a developer.    
  <br><br>
 &nbsp&nbsp&nbsp<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+&nbsp&nbsp&nbsp<img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
+&nbsp&nbsp&nbsp<img align="center" alt="ReactJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" />
+&nbsp&nbsp&nbsp<img align="center" alt="NextJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" />
 &nbsp&nbsp&nbsp<img align="center" alt="NodeJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
 &nbsp&nbsp&nbsp<img align="center" alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
 &nbsp&nbsp&nbsp<img align="center" alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
 &nbsp&nbsp&nbsp<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
+&nbsp&nbsp&nbsp<img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
 &nbsp&nbsp&nbsp<img align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
 <div><br>
 
