@@ -44,7 +44,7 @@ Software Engineering | Developer FullStack na Visão On-line<br>
   </div>
 <div><br>
 <a href="https://www.linkedin.com/in/joneskleber/" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
-&nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>
-
+&nbsp&nbsp&nbsp<a href="https://twitter.com/JonesKleber3" target="_blank"> <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" /></a>
+&nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>  
   
 </div>
