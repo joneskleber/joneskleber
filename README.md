@@ -51,5 +51,5 @@ Software Engineering | Developer FullStack na Visão On-line<br>
   &nbsp&nbsp&nbsp<a href="https://www.instagram.com/jones.kleber.1" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Instagram"></a>   
   &nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>
   &nbsp&nbsp&nbsp<img align="center" height="28" width="130" src="https://komarev.com/ghpvc/?username=joneskleber&color=blue" alt="Jones Kleber" /> 
-
+<!-- início do monitoramento 20/10/2021 -->
 </div>
