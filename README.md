@@ -7,7 +7,7 @@ Software Engineering | Developer FullStack na Visão On-line<br>
 ##
 
 ### __SKILLS__
-<div style="display: inline-block" >Essas são as tecnologias que estudo e utilizo em nossos projetos.    
+<div style="display: inline-block" >These are the technologies that I study and use in our projects.
  <br><br>
     &nbsp&nbsp&nbsp<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
     &nbsp&nbsp&nbsp<img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
