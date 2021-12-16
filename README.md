@@ -21,6 +21,8 @@ I've been working with development for over 34 years and is constantly updating 
     &nbsp&nbsp&nbsp<img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
     &nbsp&nbsp&nbsp<img  align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
     &nbsp&nbsp&nbsp<img align="center" alt="LINUX" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"" title="Linux" />
+    &nbsp&nbsp&nbsp<img align="center" alt="DOCKER" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"" title="Docker" />
+ 
 <div>
   
   ##
