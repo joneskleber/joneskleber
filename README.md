@@ -49,7 +49,7 @@ I've been working with development for over 34 years and is constantly updating 
 ### __CONTACT__
 
 <div>
-  <a href="https://joneskleber.eti.br/" target="_blank"> <img align="center"  eight="28" width="130"  alt="Home Page" src="https://github.com/visaoonline/www/blob/main/Published/icon/homepage-icon.jpg" title="Jones Kleber" /></a>   
+  <a href="https://joneskleber.eti.br/" target="_blank"> <img align="center"  eight="24" width="130"  alt="Home Page" src="https://github.com/visaoonline/www/blob/main/Published/icon/homepage-icon.jpg" title="Jones Kleber" /></a>   
      
 <!--   <a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="E-mail"/></a>   
   &nbsp<a href="https://www.linkedin.com/in/joneskleber/" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>     
