@@ -16,6 +16,7 @@ I've been working with development for over 34 years and is constantly updating 
     &nbsp&nbsp&nbsp<img align="center" alt="NodeJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
     &nbsp&nbsp&nbsp<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Amazon AWS" height="30" width="30" src="https://logodix.com/logo/34944.png" title="Amazon AWS" /> 
+     &nbsp&nbsp&nbsp<img align="center" alt="Appache Kafka" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Appache Kafka" /> 
     &nbsp&nbsp&nbsp<img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
     &nbsp&nbsp&nbsp<img  align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
     &nbsp&nbsp&nbsp<img align="center" alt="LINUX" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"" title="Linux" />
