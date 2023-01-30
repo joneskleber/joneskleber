@@ -28,7 +28,9 @@ I've been working with development for over 36 years and is constantly updating 
      &nbsp&nbsp&nbsp<img align="center" alt="Appache Kafka" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Appache Kafka" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Go" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Kubernetes" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
-     &nbsp&nbsp&nbsp<img align="center" alt="Terraform" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" /> 
+     &nbsp&nbsp&nbsp<img align="center" alt="Terraform" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" />
+     &nbsp&nbsp&nbsp<img align="center" alt="Azure Cloud" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Cloud" />
+     &nbsp&nbsp&nbsp<img align="center" alt="Google Cloud" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" /> 
 
      
 <div>
