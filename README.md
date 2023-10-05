@@ -1,8 +1,8 @@
 <div style="display: inline-block">
 
 ### Hi, My name is Jones Kleber<br> 
-I've 50 years old, I live in Três Rios/RJ.
-I've been working with development for over 36 years and is constantly updating himself. I'm a Fullstack developer, I focus my studies on Infrastructure,  Information Security, Node.js, React.js, React Native and the entire Javascript ecosystem. I love collaborating with the community and learning more every day.<br>
+I've 51 years old, I live in Três Rios/RJ.
+I've been working with development for over 37 years and is constantly updating himself. I'm a Fullstack developer, I focus my studies on Infrastructure,  Information Security, Node.js, React.js, React Native and the entire Javascript ecosystem. I love collaborating with the community and learning more every day.<br>
 
 ##
 
@@ -14,6 +14,9 @@ I've been working with development for over 36 years and is constantly updating 
     &nbsp&nbsp&nbsp<img align="center" alt="ReactJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" />
     &nbsp&nbsp&nbsp<img align="center" alt="Nextjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" />
     &nbsp&nbsp&nbsp<img align="center" alt="NodeJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
+    &nbsp&nbsp&nbsp<img align="center" alt="Express" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" /> 
+    &nbsp&nbsp&nbsp<img align="center" alt="Fastify" height="30" width="30" src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" title="Fastify" />  
+    &nbsp&nbsp&nbsp<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" />     
     &nbsp&nbsp&nbsp<img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
     &nbsp&nbsp&nbsp<img  align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
     &nbsp&nbsp&nbsp<img align="center" alt="LINUX" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"" title="Linux" />
@@ -24,7 +27,8 @@ I've been working with development for over 36 years and is constantly updating 
 <br />
 <div style="display: inline-block" ><strong>These are the technologies studied and used in our laboratories.</strong>
  <br><br>
-    &nbsp&nbsp&nbsp<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" />     
+     &nbsp&nbsp&nbsp<img align="center" alt="Java" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" /> 
+     &nbsp&nbsp&nbsp<img align="center" alt="Python" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Appache Kafka" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Appache Kafka" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Go" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Kubernetes" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
