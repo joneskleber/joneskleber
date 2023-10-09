@@ -27,6 +27,7 @@ I've been working with development for over 37 years and is constantly updating 
 <br />
 <div style="display: inline-block" ><strong>These are the technologies studied and used in our laboratories.</strong>
  <br><br>
+     &nbsp&nbsp&nbsp<img align="center" alt="Spring" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Java" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Python" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" /> 
      &nbsp&nbsp&nbsp<img align="center" alt="Appache Kafka" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Appache Kafka" /> 
