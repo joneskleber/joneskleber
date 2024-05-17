@@ -12,11 +12,12 @@ I've been working with development for over 37 years and is constantly updating 
     &nbsp&nbsp&nbsp<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
     &nbsp&nbsp&nbsp<img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
     &nbsp&nbsp&nbsp<img align="center" alt="ReactJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" />
-    &nbsp&nbsp&nbsp<img align="center" alt="Nextjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" />
+    &nbsp&nbsp&nbsp<img align="center" alt="ReactNative" height="30" width="30" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" title="Expo - React Native" />
+    &nbsp&nbsp&nbsp<img align="center" alt="Nextjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" />
     &nbsp&nbsp&nbsp<img align="center" alt="NodeJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
     &nbsp&nbsp&nbsp<img align="center" alt="Express" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" /> 
     &nbsp&nbsp&nbsp<img align="center" alt="Fastify" height="30" width="30" src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" title="Fastify" />  
-    &nbsp&nbsp&nbsp<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" />     
+    &nbsp&nbsp&nbsp<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" />     
     &nbsp&nbsp&nbsp<img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
     &nbsp&nbsp&nbsp<img  align="center" alt="GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
     &nbsp&nbsp&nbsp<img align="center" alt="LINUX" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"" title="Linux" />
