@@ -52,7 +52,7 @@ I've been working with development for over 37 years and is constantly updating 
   
   
   
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=joneskleber&theme=dark" alt="Jones Kleber" /><br>
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=joneskleber&theme=dark"  /><br>
 
   <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joneskleber&layout=compact&langs_count=7&theme=dark&pat_1=joneskleber"/>
   
