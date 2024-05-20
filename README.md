@@ -48,11 +48,10 @@ I've been working with development for over 37 years and is constantly updating 
 <div align="left">
   <a href="https://github.com/joneskleber">
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joneskleber&&show_icons=true&theme=dark" /><br>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joneskleber&&show_icons=true&theme=dark" /><br> 
   
   
-  
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=joneskleber&theme=dark"  /><br>
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=joneskleber&theme=dark" alt="" /><br>
 
   <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joneskleber&layout=compact&langs_count=7&theme=dark&pat_1=joneskleber"/>
   
