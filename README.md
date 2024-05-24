@@ -1,6 +1,12 @@
 <div style="display: inline-block">
 
 ### Hi, My name is Jones Kleber<br> 
+
+CTO @Visão On
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jones%20Kleber-0466C8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joneskleber/)](https://www.linkedin.com/in/joneskleber/) 
+[![Twitter Badge](https://img.shields.io/badge/-@JonesKleber3-0466C8?style=flat-square&labelColor=0466C8&logo=twitter&logoColor=white&link=https://x.com/JonesKleber3)](https://twitter.com/JonesKleber3) 
+
 I've 51 years old, I live in Três Rios/RJ.
 I've been working with development for over 37 years and is constantly updating himself. I'm a Fullstack developer, I focus my studies on Infrastructure,  Information Security, Node.js, React.js, React Native and the entire Javascript ecosystem. I love collaborating with the community and learning more every day.<br>
 
@@ -69,10 +75,10 @@ I've been working with development for over 37 years and is constantly updating 
   
 ##
   
-### __CONTACT__
+### __VIEWS__
 
 <div>
-  <a href="https://linkedin.com/in/joneskleber" target="_blank"> <img align="left"  height="28" width="28"  alt="Home Page" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Jones Kleber" />     
+<!--   <a href="https://linkedin.com/in/joneskleber" target="_blank"> <img align="left"  height="28" width="28"  alt="Home Page" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Jones Kleber" />      -->
 
   <img align="left" height="28" width="130" src="https://komarev.com/ghpvc/?username=joneskleber&color=blue" alt="Jones Kleber" /> 
 
