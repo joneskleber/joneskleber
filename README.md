@@ -72,14 +72,8 @@ I've been working with development for over 37 years and is constantly updating 
 ### __CONTACT__
 
 <div>
-  <a href="https://joneskleber.eti.br/" target="_blank"> <img align="center"  height="36" width="132"  alt="Home Page" src="https://github.com/joneskleber/Projects/blob/main/icons/homepage/homepage-icon.jpg" title="Jones Kleber" /></a>   
-     
-<!--   <a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="E-mail"/></a>   
-  &nbsp<a href="https://www.linkedin.com/in/joneskleber/" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>     
-  &nbsp<a href="https://twitter.com/JonesKleber3" target="_blank"> <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" /></a>
-  &nbsp<a href="https://www.instagram.com/jones.kleber.1" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Instagram"></a>       -->
-<!--  &nbsp&nbsp&nbsp<a href="mailto:visao@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>
-     -->
-  <img align="center" height="28" width="130" src="https://komarev.com/ghpvc/?username=joneskleber&color=blue" alt="Jones Kleber" /> 
-<!-- início do monitoramento 20/10/2021 -->
+  <a href="https://linkedin.com/in/joneskleber" target="_blank"> <img align="left"  height="28" width="28"  alt="Home Page" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Jones Kleber" />     
+
+  <img align="left" height="28" width="130" src="https://komarev.com/ghpvc/?username=joneskleber&color=blue" alt="Jones Kleber" /> 
+
 </div>
