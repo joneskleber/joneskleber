@@ -9,8 +9,8 @@ CTO @Visão On
 [![Twitter Badge](https://img.shields.io/badge/-jones.kleber.1-0466C8?style=flat-square&labelColor=0466C8&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/jones.kleber.1) 
 
 
-I've 51 years old, I live in Três Rios/RJ.
-I've been working with development for over 37 years and is constantly updating himself. I'm a Fullstack developer, I focus my studies on Infrastructure,  Information Security, Node.js, React.js, React Native and the entire Javascript ecosystem. I love collaborating with the community and learning more every day.<br>
+I've 52 years old, I live in Três Rios/RJ.
+I've been working with development for over 38 years and is constantly updating himself. I'm a Fullstack developer, I focus my studies on Infrastructure,  Information Security, Node.js, React.js, React Native and the entire Javascript ecosystem. I love collaborating with the community and learning more every day.<br>
 
 ##
 
