@@ -6,7 +6,7 @@ CTO @Visão On
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jones%20Kleber-0466C8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joneskleber/)](https://www.linkedin.com/in/joneskleber/) 
 [![Twitter Badge](https://img.shields.io/badge/-@JonesKleber3-0466C8?style=flat-square&labelColor=0466C8&logo=twitter&logoColor=white&link=https://x.com/JonesKleber3)](https://twitter.com/JonesKleber3) 
-[![Twitter Badge](https://img.shields.io/badge/-jones.kleber.1-0466C8?style=flat-square&labelColor=0466C8&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/jones.kleber.1) 
+[![Twitter Badge](https://img.shields.io/badge/-jones.kleber.1-0466C8?style=flat-square&labelColor=0466C8&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/jklebertech) 
 
 
 I've 52 years old, I live in Três Rios/RJ.
